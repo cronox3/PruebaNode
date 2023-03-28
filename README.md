@@ -1,5 +1,5 @@
 ## 📜 Resumen 📜
-Api rest de la prueba técnica. Se utilizó Clean Architecture para su construcción y el proyecto está basado en NodeJS con Postgres.
+Api rest de la prueba técnica. Se utilizó Clean Architecture para su construcción y el proyecto está basado en NodeJS con PostgreSQL.
 
 ## 💻 Ejecución 💻
 Para ejecutar el proyecto basta con clonar el repositorio y seguir estos pasos
